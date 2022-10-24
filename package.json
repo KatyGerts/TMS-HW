@@ -1,0 +1,19 @@
+{
+  "name": "tms-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatyGerts/TMS-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatyGerts/TMS-HW/issues"
+  },
+  "homepage": "https://github.com/KatyGerts/TMS-HW#readme"
+}
